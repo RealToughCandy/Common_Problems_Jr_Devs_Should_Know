@@ -3,8 +3,8 @@ A collection of problems submitted by hiring managers, interviewers, and mid &am
 
 The purpose of this repo is two-fold. 
 
-##One, to illustrate the expectations of employers and those invovled in the hiring process. 
+## One, to illustrate the expectations of employers and those invovled in the hiring process. 
 
-##Two, to help prepare aspiring and junior developers for a job in software. 
+## Two, to help prepare aspiring and junior developers for a job in software. 
 
 Please provide context when you submit a problem. For example, is the question/challenge geared towards all junior devs, or targeted at a specific skillset (i.e. frontend, backend)?
