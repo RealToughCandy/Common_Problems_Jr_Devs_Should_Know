@@ -3,7 +3,7 @@ A collection of problems submitted by hiring managers, interviewers, and mid &am
 
 The purpose of this repo is two-fold. 
 
-## One, to illustrate the expectations of employers and those involved in the hiring process. 
+## One, to illustrate the expectations of employers, those involved in the hiring process, and those who supervise juniors. 
 
 ## Two, to help prepare aspiring and junior developers for a job in software. 
 
