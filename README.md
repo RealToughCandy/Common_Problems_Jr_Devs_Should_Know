@@ -7,6 +7,8 @@ The purpose of this repo is two-fold.
 
 ## Two, to help prepare aspiring and junior developers for a job in software. 
 
+***
+
 ## Talk about your experience with Git.
 Often I come across projects where I need to hire a couple of additional developers. Knowledge of, and especially experience with Git is very important!
 
