@@ -9,3 +9,6 @@ The purpose of this repo is two-fold.
 
 ## Talk about your experience with Git.
 Often I come across projects where I need to hire a couple of additional developers. Knowledge of, and especially experience with Git is very important!
+
+<sub><sup>_Submitted by [andrewerwinxyz](https://github.com/andrewerwinxyz)_</sup></sub>
+
