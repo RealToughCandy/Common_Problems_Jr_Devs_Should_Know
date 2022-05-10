@@ -1,6 +1,6 @@
 # Common_Problems_Jr_Devs_Should_Know
 
-A collection of problems & concepts junior developers should know (and be able to solve!), according to people in charge.
+A collection of problems & concepts new junior developers should know (and be able to solve!), according to people in charge.
 
 These problems have been submitted by:
 
