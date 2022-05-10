@@ -2,11 +2,11 @@
 
 A collection of problems junior developers should know, according to people in charge.
 
-Problems submitted by:
+These problems have been submitted by:
 
 - hiring managers
 - interviewers
-- and mid &amp; senior level developers 
+- mid- and senior-level developers 
 
 Purpose of this project: 
 
