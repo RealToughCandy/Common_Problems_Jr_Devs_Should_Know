@@ -1,11 +1,11 @@
 # Common_Problems_Jr_Devs_Should_Know
 A collection of problems submitted by hiring managers, interviewers, and mid &amp; senior level developers they consider mandatory knowledge for all junior software developers. 
 
-The purpose of this repo is twofold. 
+Purpose of this project: 
 
-### One, to illustrate the expectations of employers, those involved in the hiring process, and those who supervise juniors. 
+### One: share the expectations of employers, those involved in the hiring process, and those who supervise juniors. 
 
-### Two, to help prepare aspiring and junior developers for a job in software. 
+### Two: help prepare aspiring and junior developers for a job in software. 
 
 ***
 
