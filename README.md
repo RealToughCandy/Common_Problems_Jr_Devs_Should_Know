@@ -3,7 +3,7 @@ A collection of problems submitted by hiring managers, interviewers, and mid &am
 
 Purpose of this project: 
 
-### One: share the expectations of employers, those involved in the hiring process, and those who supervise juniors. 
+### One: share employer & co-worker expectations.
 
 ### Two: help prepare aspiring and junior developers for a job in software. 
 
