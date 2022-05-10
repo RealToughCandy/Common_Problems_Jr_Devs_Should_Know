@@ -1,5 +1,8 @@
 # Common_Problems_Jr_Devs_Should_Know
-A collection of problems submitted by hiring managers, interviewers, and mid &amp; senior level developers they consider mandatory knowledge for all junior software developers. 
+A collection of problems submitted by:
+-hiring managers
+-interviewers
+-and mid &amp; senior level developers 
 
 Purpose of this project: 
 
